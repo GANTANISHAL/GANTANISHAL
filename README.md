@@ -27,6 +27,7 @@ A CNN + RNN-based AI system that predicts speech from silent video input. It ext
 
 ## 📄 Resume  
 📎 [View Resume](https://drive.google.com/file/d/1Z8zMNmD-TsIlp_VWaDLJ6nEHT2O1K4BN/view?usp=drive_link)
+📎 [View Resume](https://drive.google.com/file/d/1Z8zMNmD-TsIlp_VWaDLJ6nEHT2O1K4BN/view?usp=drive_link)
 
 ---
 
