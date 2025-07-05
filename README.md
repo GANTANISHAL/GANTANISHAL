@@ -1,8 +1,7 @@
-# 👋 Hi, I'm GANTA NISHAL
+# 👋 Hi, I'm Ganta Nishal  
+🚀 Aspiring AI Developer | Deep Learning | Computer Vision | NLP
 
-🚀 Aspiring AI Developer | Deep Learning Enthusiast | Problem Solver
-
-I’m passionate about building intelligent systems using Deep Learning, Computer Vision, and Natural Language Processing. I enjoy turning complex problems into working AI solutions.
+I’m passionate about building intelligent systems using Deep Learning, Computer Vision, and Natural Language Processing. I enjoy turning complex problems into intelligent, working solutions.
 
 ---
 
@@ -18,16 +17,25 @@ I’m passionate about building intelligent systems using Deep Learning, Compute
 ## 💼 Projects
 
 ### 🔹 [Lipconet – Deep Learning Lip Reading System](https://github.com/GANTANISHAL/Lipconet)
-A CNN + RNN-based AI system that predicts speech from silent video input. It extracts mouth regions, processes them frame-by-frame, and uses sequential models to understand what the speaker is saying.
+
+Built a deep learning-based lip-reading model using a CNN-RNN architecture to predict spoken words from silent videos. I implemented preprocessing, mouth region extraction, model training, and evaluation. The system was trained on real-world video datasets using TensorFlow and OpenCV.
 
 > **Tech Stack:** Python, OpenCV, TensorFlow, Keras  
 > **Focus Areas:** Spatial-temporal modeling, video preprocessing, sequence prediction
 
 ---
 
+## 🧪 Other Projects
+
+### 🔹 YouTube Comment Scraper using Selenium  
+A Python automation script that uses Selenium to extract YouTube comments for data analysis and sentiment evaluation.
+
+> **Tech Stack:** Python, Selenium, Pandas
+
+---
+
 ## 📄 Resume  
-📎 [View Resume](https://drive.google.com/file/d/1Z8zMNmD-TsIlp_VWaDLJ6nEHT2O1K4BN/view?usp=drive_link)
-📎 [View Resume](https://drive.google.com/file/d/1Z8zMNmD-TsIlp_VWaDLJ6nEHT2O1K4BN/view?usp=drive_link)
+📎 [📄 View My Resume (PDF)](https://drive.google.com/file/d/1Z8zMNmD-TsIlp_VWaDLJ6nEHT2O1K4BN/view?usp=drive_link)
 
 ---
 
@@ -39,4 +47,4 @@ A CNN + RNN-based AI system that predicts speech from silent video input. It ext
 ---
 
 > *“AI is not just code — it’s creative problem solving.”*  
-— Ganta Nishal
+> — Ganta Nishal
