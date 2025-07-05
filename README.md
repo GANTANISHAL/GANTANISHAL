@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gantan Nishal
+# 👋 Hi, I'm GANTA NISHAL
 
 I’m an aspiring AI developer passionate about building intelligent systems using Deep Learning, Computer Vision, and NLP.
 
